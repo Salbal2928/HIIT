@@ -1,3 +1,7 @@
+"""
+this program takes in a string an returns the reverse of the 
+the string using list slicing
+ """
 def reverse_string(msg):
     return msg[::-1]
 
